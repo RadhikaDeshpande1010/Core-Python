@@ -2,8 +2,8 @@
 <html>
 <body>
   <img src="https://github.com/RadhikaDeshpande1010/Order-Management-System-Model/blob/main/Order_Management_System_Banner.png" height="290" width="1200">
-  <p>Welcome to the <strong>Core Python</strong> repository!</p>
-  <p> This directory contains hands-on exercises and examples to help you gain a strong grasp of fundamental Python programming.</p>
+  <p><strong>Core Python:</strong> Master the Foundation.</p>
+  <p>This directory offers a practical guide to mastering fundamental Python programming, equipping you with the essential building blocks for coding success.</p>
 
   <h2>📁 Folder Purpose</h2>
     <p>The <code>core-python</code> folder is designed to help you:</p>
@@ -52,12 +52,7 @@
     <p>To run any script, clone the repository and run Python files using:</p>
     <pre><code>python filename.py</code></pre>
     
-  <h2>🤝 Contributions</h2>
-      <p>Feel free to contribute by adding:</p>
-      <ul>
-          <li>New examples or challenges</li>
-          <li>Enhancements to existing scripts</li>
-          <li>Comments or documentation for better understanding</li>
-      </ul>
+  <h2>🤝 Conclusion </h2>
+      <p>Unlock your Python potential: Explore, experiment, and build your core!</p>
   </body>
 </html>
