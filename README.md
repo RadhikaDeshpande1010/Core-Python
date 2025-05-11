@@ -55,15 +55,15 @@
     <pre>
 Core-Python/
 │
-├── <a href="./Basics">Basics/</a>               # Basic syntax, variables, datatypes
-├── <a href="./Control_Flows">Control_Flows/</a>         # If-else, loops
-├── <a href="./Functions">Functions/</a>            # Function definitions and examples
-├── <a href="./Data_Structures">Data_Structures/</a>      # Lists, dicts, sets, tuples
-├── <a href="./File_Handling">File_Handling/</a>        # Reading and writing files
-├── <a href="./Exception_Handling">Exception_Handling/</a>   # Error handling examples
-├── <a href="./Comprehensions">Comprehensions/</a>       # List/set/dict comprehensions
-├── <a href="./OOPS">OOPS/</a>                  # Object-Oriented Programming concepts
-└── <a href="./Modules_Packages">Modules_Packages/</a>     # Working with modules and packages
+├── <a href="Core-Python/Basics">Basics/</a>               # Basic syntax, variables, datatypes
+├── <a href="Core-Python/Control_Flows">Control_Flows/</a>         # If-else, loops
+├── <a href="Core-Python/Functions">Functions/</a>            # Function definitions and examples
+├── <a href="Core-Python/Data_Structures">Data_Structures/</a>      # Lists, dicts, sets, tuples
+├── <a href="Core-Python/File_Handling">File_Handling/</a>        # Reading and writing files
+├── <a href="Core-Python/Exception_Handling">Exception_Handling/</a>   # Error handling examples
+├── <a href="Core-Python/Comprehensions">Comprehensions/</a>       # List/set/dict comprehensions
+├── <a href="Core-Python/OOPS">OOPS/</a>                  # Object-Oriented Programming concepts
+└── <a href="Core-Python/Modules_Packages">Modules_Packages/</a>     # Working with modules and packages
       </pre>
     </div>
 
