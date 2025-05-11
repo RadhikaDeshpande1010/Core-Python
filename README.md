@@ -53,17 +53,17 @@
   </h2>
   <div class="folder-structure">
     <pre>
-  core-python/
-  │
-  ├── basics/               # Basic syntax, variables, datatypes
-  ├── control_flow/         # If-else, loops
-  ├── functions/            # Function definitions and examples
-  ├── data_structures/      # Lists, dicts, sets, tuples
-  ├── file_handling/        # Reading and writing files
-  ├── exception_handling/   # Error handling examples
-  ├── comprehensions/       # List/set/dict comprehensions
-  ├── oop/                  # Object-Oriented Programming concepts
-  └── modules_packages/     # Working with modules and packages
+core-python/
+│
+├── <a href="./Basics">basics/</a>               # Basic syntax, variables, datatypes
+├── <a href="./Control_Flows">control_flow/</a>         # If-else, loops
+├── <a href="./Functions">functions/</a>            # Function definitions and examples
+├── <a href="./data_structures">data_structures/</a>      # Lists, dicts, sets, tuples
+├── <a href="./file_handling">file_handling/</a>        # Reading and writing files
+├── <a href="./exception_handling">exception_handling/</a>   # Error handling examples
+├── <a href="./comprehensions">comprehensions/</a>       # List/set/dict comprehensions
+├── <a href="./oop">oop/</a>                  # Object-Oriented Programming concepts
+└── <a href="./modules_packages">modules_packages/</a>     # Working with modules and packages
       </pre>
     </div>
 
