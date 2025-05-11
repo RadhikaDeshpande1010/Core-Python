@@ -1,7 +1,7 @@
 # Core-Python
 <html>
 <body>
-  <img src="https://github.com/RadhikaDeshpande1010/Order-Management-System-Model/blob/main/Order_Management_System_Banner.png" height="290" width="1200">
+  <img src="https://github.com/RadhikaDeshpande1010/Core-Python/blob/main/Core-Python.png" height="290" width="1200">
   <p><strong>Core Python:</strong> Master the Foundation.</p>
   <p>This directory offers a practical guide to mastering fundamental Python programming, equipping you with the essential building blocks for coding success.</p>
 
