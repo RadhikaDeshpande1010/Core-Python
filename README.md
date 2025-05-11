@@ -1,4 +1,4 @@
-# Core-Python
+# Mastering Core Python
 <html>
 <body>
   <img src="https://github.com/RadhikaDeshpande1010/Core-Python/blob/main/Core-Python.png" height="290" width="1200">
