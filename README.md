@@ -1,14 +1,16 @@
-# Mastering Core Python
 <html>
 <body>
+  <h2><sub><img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/python-icon.png" height="25" width="25"></sub> Mastering Core Python</h2>
   <img src="https://github.com/RadhikaDeshpande1010/Core-Python/blob/main/Core-Python.png" height="290" width="1200">
   <p><strong>Core Python:</strong> Master the Foundation.</p>
   <p>This directory offers a practical guide to mastering fundamental Python programming, equipping you with the essential building blocks for coding success.</p>
 
   <h2>
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/folder-purpose.png" alt="Icon" height="25" width="25" valign="middle"> 
+      <sub>
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/folder-purpose.png" alt="Icon" height="23" width="23" valign="middle"> 
           <span style="margin: 0;">Folder Purpose</span>
+      </sub>
     </div>
   </h2>
   <p>The <code>core-python</code> folder is designed to help you:</p>
@@ -21,8 +23,10 @@
       
   <h2>
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/topics-covered.png" alt="Icon" height="25" width="25" valign="middle"> 
+       <sub>
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/topics-covered.png" alt="Icon" height="23" width="23" valign="middle"> 
           <span style="margin: 0;">Topics Covered</span>
+       </sub>
     </div>
   </h2>
   <p>The folder includes scripts on:</p>
@@ -41,8 +45,10 @@
   
   <h2>
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/folder-structure.png" alt="Icon" height="24" width="24" valign="middle"> 
+      <sub>
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/folder-structure.png" alt="Icon" height="23" width="23" valign="middle"> 
           <span style="margin: 0;">Folder Structure</span>
+      </sub>
     </div>
   </h2>
   <div class="folder-structure">
@@ -63,8 +69,10 @@
 
   <h2>
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Start.png" alt="Icon" height="26" width="26" valign="middle"> 
+      <sub>
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Start.png" alt="Icon" height="23" width="23" valign="middle"> 
           <span style="margin: 0;">Getting Started</span>
+      </sub>
     </div>
   </h2>
 
@@ -75,8 +83,10 @@
     
   <h2>
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Conclusion.png" alt="Icon" height="25" width="25" valign="middle"> 
+      <sub>
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Conclusion.png" alt="Icon" height="23" width="23" valign="middle"> 
           <span style="margin: 0;">Conclusion</span>
+      </sub>
     </div>
   </h2>
   
