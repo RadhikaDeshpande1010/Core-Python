@@ -12,12 +12,12 @@
     </div>
   </h2>
   <p>The <code>core-python</code> folder is designed to help you:</p>
-    <ul>
-        <li>Understand core Python syntax and logic</li>
-        <li>Practice programming fundamentals</li>
-        <li>Explore reusable code patterns and functions</li>
-        <li>Strengthen your coding foundations for advanced topics like Data Analysis, Automation, or Game Development</li>
-    </ul>
+  <ul>
+      <li>Understand core Python syntax and logic</li>
+      <li>Practice programming fundamentals</li>
+      <li>Explore reusable code patterns and functions</li>
+       <li>Strengthen your coding foundations for advanced topics like Data Analysis, Automation, or Game Development</li>
+  </ul>
       
   <h2>
     <div style="display: flex; align-items: center;">
@@ -63,10 +63,11 @@
 
   <h2>
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Start.png" alt="Icon" height="25" width="25" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Start.png" alt="Icon" height="26" width="26" valign="middle"> 
           <span style="margin: 0;">Getting Started</span>
     </div>
   </h2>
+
   <p>Python Version</p>
   <pre><code>Python Version: 3.12</code></pre>
   <p>To run any script, clone the repository and run Python files using:</p>
@@ -78,6 +79,8 @@
           <span style="margin: 0;">Conclusion</span>
     </div>
   </h2>
+  
   <p>Unlock your Python potential: Explore, experiment, and build your core!</p>
+  
   </body>
 </html>
