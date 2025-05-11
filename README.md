@@ -53,17 +53,17 @@
   </h2>
   <div class="folder-structure">
     <pre>
-core-python/
+Core-Python/
 │
-├── <a href="./Basics">basics/</a>               # Basic syntax, variables, datatypes
-├── <a href="./Control_Flows">control_flow/</a>         # If-else, loops
-├── <a href="./Functions">functions/</a>            # Function definitions and examples
-├── <a href="./data_structures">data_structures/</a>      # Lists, dicts, sets, tuples
-├── <a href="./file_handling">file_handling/</a>        # Reading and writing files
-├── <a href="./exception_handling">exception_handling/</a>   # Error handling examples
-├── <a href="./comprehensions">comprehensions/</a>       # List/set/dict comprehensions
-├── <a href="./oop">oop/</a>                  # Object-Oriented Programming concepts
-└── <a href="./modules_packages">modules_packages/</a>     # Working with modules and packages
+├── <a href="./Basics">Basics/</a>               # Basic syntax, variables, datatypes
+├── <a href="./Control_Flows">Control_Flows/</a>         # If-else, loops
+├── <a href="./Functions">Functions/</a>            # Function definitions and examples
+├── <a href="./Data_Structures">Data_Structures/</a>      # Lists, dicts, sets, tuples
+├── <a href="./File_Handling">File_Handling/</a>        # Reading and writing files
+├── <a href="./Exception_Handling">Exception_Handling/</a>   # Error handling examples
+├── <a href="./Comprehensions">Comprehensions/</a>       # List/set/dict comprehensions
+├── <a href="./OOPS">OOPS/</a>                  # Object-Oriented Programming concepts
+└── <a href="./Modules_Packages">Modules_Packages/</a>     # Working with modules and packages
       </pre>
     </div>
 
