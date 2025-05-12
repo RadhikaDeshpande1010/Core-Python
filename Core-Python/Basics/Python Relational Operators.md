@@ -57,6 +57,8 @@
   ```
   <h4>:black_small_square: Double equal to (==)</h4>
   <p>Double equal to: True if two values are equal</p>
+
+  <h6>Example 1:</h6>
   
   ```python
   Input
@@ -65,13 +67,16 @@
   Output
   False
   ```
-   ```python
-   Input
-   2 == 2
+
+ <h6>Example 2:</h6>
+ 
+  ```python
+  Input
+  2 == 2
     
-   Output
-   True
-   ```
+  Output
+  True
+  ```
   <h4>:black_small_square: Not equal to (!=)</h4>
   <p>Not equal to: True if operands are not equal</p>
   
