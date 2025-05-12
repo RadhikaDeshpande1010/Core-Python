@@ -55,7 +55,7 @@
     <pre>
 Core-Python/
 │
-├── <a href="Core-Python/Basics.md">Basics/</a>               # Basic syntax, variables, datatypes
+├── <a href="Core-Python/Basics">Basics/</a>               # Basic syntax, variables, datatypes
 ├── <a href="Core-Python/Control_Flows">Control_Flows/</a>        # If-else, loops
 ├── <a href="Core-Python/Functions">Functions/</a>            # Function definitions and examples
 ├── <a href="Core-Python/Data_Structures">Data_Structures/</a>      # Lists, dicts, sets, tuples
