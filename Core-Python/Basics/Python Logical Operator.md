@@ -14,7 +14,8 @@
   | True    | False   | False            |
   | False   | False   | False            |
 
-
+  <h6>Example 1:</h6>
+  
   ```python
   Input
   5 < 3 and 5 > 2
@@ -22,7 +23,9 @@
   Output
   False
   ```
-   
+
+  <h6>Example 2:</h6> 
+  
   ```python
   Input
   10 < 11 and 10 > 9
@@ -40,6 +43,8 @@
   | True    | False   | True            |
   | False   | False   | False           |
 
+  <h6>Example 1:</h6>
+  
   ```python
   Input
   10 > 5 or 5 > 9
@@ -47,7 +52,10 @@
   Output
   True
   ```
-   ```python
+
+  <h6>Example 2:</h6>
+  
+  ```python
   Input
   15 > 20 or 20 > 25
   
