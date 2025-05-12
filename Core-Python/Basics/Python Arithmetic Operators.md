@@ -64,7 +64,7 @@
   Output
   27
   ```
-  <h4>:black_small_square: Integer Division / Floor Division (//)</h4>
+  <h4>:black_small_square: Integer Division (//)</h4>
   <p>Division (floor): divides the first operand by the second	</p>
   
   ```python
@@ -75,7 +75,7 @@
   3
   ```
   <h4>:black_small_square: Modulus (%)</h4>
-  <p>Division (floor): divides the first operand by the second	</p>
+  <p>Division (floor): divides the first operand by the second</p>
   
   ```python
   Input
