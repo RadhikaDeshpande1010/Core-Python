@@ -23,10 +23,12 @@
   ```python
   Input
   input()  
-  
+
+  User Input
+  12
+
   Output
-  User Input: 12
-  Output: '12'
+  '12'
   ```
 
   <h6>Example 2:</h6> 
@@ -34,10 +36,69 @@
   ```python
   Input
   input("Please enter the name: ")
+
+  User Input
+  Radhika
+
+  Output
+  'Radhika'
+  ```
+
+  <h6>Example 3:</h6> 
+  
+  ```python
+  Input
+  name = input("Enter the name: ")
+  age = input("Enter the age: ")
+  print(name, age)
+  print("Name is: ",name,"\n" "Age is: ",age)
+
+  User Input
+  Enter the name:  Radhika
+  Enter the age:  27
   
   Output
-  User Input: Radhika
-  Output: 'Radhika'
+  Radhika 27
+  Name is:  Radhika 
+  Age is:  27
+  ```
+
+  <h6>Example 4:</h6> 
+  
+  ```python
+  Input
+  name = input("Enter the name: ")
+  age = int(input("Enter the age: "))
+  print("Name is: ",name,"\n" "Age is: ",age)
+  age = age + 10
+  print("Name is: ",name,"\n" "Age is: ",age)
+
+  User Input
+  Enter the name:  Radhika
+  Enter the age:  27
+  
+  Output
+  Name is:  Radhika 
+  Age is:  27
+  Name is:  Radhika 
+  Age is:  37
+  ```
+
+ <h4>:black_small_square: f-string</h4>
+ <p>An f-string in Python helps you put variables and expressions inside a string easily. You just add f before the string and use {} to include values.</p>
+
+ ```python
+  Input
+  name = input("Enter the name: ")
+  age = input("Enter the age: ")
+  print(f'name is: {name} and age is: {age}')
+
+  User Input
+  Enter the name:  Radhika
+  Enter the age:  27
+  
+  Output
+  name is: Radhika and age is: 27
   ```
 
  <h4>:black_small_square: type() function</h4>
