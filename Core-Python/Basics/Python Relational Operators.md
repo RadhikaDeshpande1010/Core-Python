@@ -2,7 +2,7 @@
 <html>
  <body>
   <h2><sub><img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/python-icon.png" height="25" width="25"></sub> Python Basics</h2>
-  <h3> Relational Operators (also called as Comparison Operators) </h3>
+  <h2>Relational Operators (also called as Comparison Operators)</h2>
   <p>In Python, comparison operators are used to compare the values of two operands (elements being compared). They return a Boolean result (True or False) based on whether the comparison is true. Try the following: </p>
 
   | Operator | Description               | Example   | Result  |
