@@ -1,7 +1,7 @@
 <html>
  <body>
   <h2><sub><img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/python-icon.png" height="25" width="25"></sub> Python Basics</h2>
-  <h3> Arithmetic Operators </h3>
+  <h2>Arithmetic Operators</h2>
   <p>The interactive Python interpreter can be used as a powerful calculator using arithmetic operators. Arithmetic operators are symbols used to perform mathematical operations on numerical values. Try the following: </p>
 
   | Operator | Description           | Example   | Result |
