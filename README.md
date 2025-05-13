@@ -1,7 +1,7 @@
 <html>
 <body>
   <h2><sub><img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/python-icon.png" height="25" width="25"></sub> Mastering Core Python</h2>
-  <img src="Snapshot/Core-Python.png" height="277" width="1200">
+  <img src="https://github.com/RadhikaDeshpande1010/Mastering-Core-Python/blob/main/Snapshot/Core%20Python.png" height="277" width="1200">
   <p><strong>Core Python:</strong> Master the Foundation.</p>
   <p>This directory offers a practical guide to mastering fundamental Python programming, equipping you with the essential building blocks for coding success.</p>
 
