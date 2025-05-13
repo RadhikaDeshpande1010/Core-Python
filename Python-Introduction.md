@@ -6,7 +6,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Python.png" alt="Icon" height="23" width="23" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Python.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">What is Python?</span>
       </sub>
     </div>
@@ -52,7 +52,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Applications.png" alt="Icon" height="23" width="23" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Applications.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Applications of Python Programming</span>
       </sub>
     </div>
@@ -80,7 +80,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Python%20Used.png" alt="Icon" height="23" width="23" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Python%20Used.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Where is Python Used?</span>
       </sub>
     </div>
@@ -127,7 +127,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Libraries.png" alt="Icon" height="23" width="23" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Libraries.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Python Libraries</span>
       </sub>
     </div>
@@ -153,7 +153,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Python%20History.png" alt="Icon" height="23" width="23" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Python%20History.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">History of Python Programming Language</span>
       </sub>
     </div>
@@ -198,7 +198,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Conclusion.png" alt="Icon" height="23" width="23" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Conclusion.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Conclusion</span>
       </sub>
     </div>
