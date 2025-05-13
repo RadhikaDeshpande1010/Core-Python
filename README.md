@@ -55,6 +55,7 @@
     <pre>
 Core-Python/
 │
+├── <a href="Core-Python/Python-Introduction.md">Python Introduction/</a>  # Python Introduction and History
 ├── <a href="Core-Python/Basics">Basics/</a>               # Basic syntax, variables, datatypes
 ├── <a href="Core-Python/Control_Flows">Control_Flows/</a>        # If-else, loops
 ├── <a href="Core-Python/Functions">Functions/</a>            # Function definitions and examples
