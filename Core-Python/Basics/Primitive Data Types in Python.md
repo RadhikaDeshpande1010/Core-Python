@@ -1,6 +1,6 @@
 <html>
  <body>
-  <h2><sub><img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/python-icon.png" height="25" width="25"></sub> Python Basics</h2>
+  <h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="25" width="25"></sub> Python Basics</h2>
   <h2>Primitive Data Types in Python</h2>
   <p>In Python, primitive variables refer to simple data types that hold basic values. They serve as the building blocks of programming, laying the foundation for more advanced structures like lists, dictionaries, and custom objects.</p>
   
