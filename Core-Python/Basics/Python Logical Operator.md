@@ -1,6 +1,6 @@
 <html>
  <body>
-  <h2><sub><img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/python-icon.png" height="25" width="25"></sub> Python Basics</h2>
+  <h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="25" width="25"></sub> Python Basics</h2>
   <h2>Logical Operators</h2>
   <p>In python, logical operators help make decisions in programming by combining conditions statements. They help in decision-making by evaluating expressions and returning a True or False result.</p>
 
