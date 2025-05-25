@@ -1,6 +1,6 @@
 <html>
  <body>
-  <h2><sub><img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/python-icon.png" height="25" width="25"></sub> Python Basics</h2>
+  <h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="25" width="25"></sub> Python Basics</h2>
   <h2>Assignment Operator (=)</h2>
   <p>In Python, assignment operators are used to assign values to variables. The assignment operator (=) is used to assign a value from the right side of an expression to the left side variable.</p>
 
