@@ -1,12 +1,12 @@
 <html>
 <body>
-  <h2><sub><img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/python-icon.png" height="25" width="25"></sub> Python Introduction</h2>
+  <h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="25" width="25"></sub> Python Introduction</h2>
   <img src="https://github.com/RadhikaDeshpande1010/Mastering-Core-Python/blob/main/Snapshot/Introduction.png">
  
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Python.png" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/py-introduction/Python.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">What is Python?</span>
       </sub>
     </div>
@@ -16,7 +16,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/features.png" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/py-introduction/features.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;"> Key features of Python</span>
       </sub>
     </div>
@@ -35,7 +35,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Know%20What.png" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/py-introduction/Know%20What.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Some Interesting Facts About Python</span>
       </sub>
     </div>
@@ -52,7 +52,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Applications.png" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/py-introduction/Applications.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Applications of Python Programming</span>
       </sub>
     </div>
@@ -80,7 +80,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Python%20Used.png" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/py-introduction/Python%20Used.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Where is Python Used?</span>
       </sub>
     </div>
@@ -127,7 +127,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Libraries.png" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/py-introduction/Libraries.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Python Libraries</span>
       </sub>
     </div>
@@ -153,7 +153,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Python%20History.png" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/py-introduction/Python%20History.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">History of Python Programming Language</span>
       </sub>
     </div>
@@ -198,7 +198,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Conclusion.png" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/py-introduction/Conclusion.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Conclusion</span>
       </sub>
     </div>
