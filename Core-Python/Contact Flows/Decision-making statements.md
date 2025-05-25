@@ -1,6 +1,6 @@
 <html>
  <body>
-  <h2><sub><img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/python-icon.png" height="25" width="25"></sub> Python Basics</h2>
+  <h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="25" width="25"></sub> Python Basics</h2>
   <h2>Conditional Statements</h2>
    
   -	In Python, conditional statements allow the program to make decisions based on conditions.
