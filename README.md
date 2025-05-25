@@ -85,7 +85,7 @@ Core-Python/
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Conclusion.png" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Conclusion.png" alt="Icon" height="25" width="25" valign="middle"> 
           <span style="margin: 0;">Conclusion</span>
       </sub>
     </div>
