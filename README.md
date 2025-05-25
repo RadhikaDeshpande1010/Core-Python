@@ -1,6 +1,6 @@
 <html>
 <body>
-  <h2><sub><img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/python-icon.png" height="25" width="25"></sub> Mastering Core Python</h2>
+  <h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="25" width="25"></sub> Mastering Core Python</h2>
   <img src="https://github.com/RadhikaDeshpande1010/Mastering-Core-Python/blob/main/Snapshot/Core%20Python.png">
   <p><strong>Core Python:</strong> Master the Foundation.</p>
   <p>This directory offers a practical guide to mastering fundamental Python programming, equipping you with the essential building blocks for coding success.</p>
@@ -8,7 +8,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/folder-purpose.png" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/core-py/folder-purpose.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Folder Purpose</span>
       </sub>
     </div>
@@ -24,7 +24,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
        <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/topics-covered.png" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/core-py/topics-covered.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Topics Covered</span>
        </sub>
     </div>
@@ -46,7 +46,7 @@
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/folder-structure.png" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/core-py/folder-structure.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Folder Structure</span>
       </sub>
     </div>
@@ -71,7 +71,7 @@ Core-Python/
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Start.png" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/core-py/Start.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Getting Started</span>
       </sub>
     </div>
@@ -85,7 +85,7 @@ Core-Python/
   <h2>
     <div style="display: flex; align-items: center;">
       <sub>
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/general-icon/Conclusion.png" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/core-py/Conclusion.png" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Conclusion</span>
       </sub>
     </div>
